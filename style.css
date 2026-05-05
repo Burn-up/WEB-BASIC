@@ -41,6 +41,10 @@ body{
     color: #191A23;
 }
 
+.link a:hover {
+    color: #0d0e13;
+}
+
 .link-btn{
     font-size: 1.25em;
     padding: 1.25rem 2.188rem;
