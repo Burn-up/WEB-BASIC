@@ -1,0 +1,50 @@
+*{
+    font-family: "Space Grotesk", sans-serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#landing-page{
+    margin-top: 3.75rem;
+}
+
+.container{
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 5rem;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.link{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-size: 1.25rem;
+    padding: 0;
+}
+
+.link li{
+    margin-left: 2.5rem;
+}
+
+.link a{
+    text-decoration: none;
+    color: #191A23;
+}
+
+.link-btn{
+    font-size: 1.25em;
+    padding: 1.25rem 2.188rem;
+    border-radius: 0.875rem;
+    background: none;
+    cursor: pointer;
+}
